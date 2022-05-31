@@ -53,3 +53,12 @@ Bay Safe Plants LTD Napier NZ
 ### Gnatt Chart
 
 [Agile Gantt chart (1).xlsx](https://github.com/brenda-byten/ITPM5-Assigment/files/8801771/Agile.Gantt.chart.1.xlsx)
+
+### Iteration 3+ (4)
+
+[Group Meeting Report 4.1.docx](https://github.com/brenda-byten/Greg-Brenda-2022/files/8801807/Group.Meeting.Report.4.1.docx)
+
+[Group Meeting Report 4.2.docx](https://github.com/brenda-byten/Greg-Brenda-2022/files/8801810/Group.Meeting.Report.4.2.docx)
+
+[Group Meeting Report 4.3.docx](https://github.com/brenda-byten/Greg-Brenda-2022/files/8801814/Group.Meeting.Report.4.3.docx)
+
