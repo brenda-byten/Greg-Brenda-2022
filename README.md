@@ -14,7 +14,7 @@ Bay Safe Plants LTD Napier NZ
 [Group Meeting Report 2.2.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8783001/Group.Meeting.Report.2.2.docx)
 [Group Meeting Report 2.3.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8783002/Group.Meeting.Report.2.3.docx)
 [Group Meeting Report 2.4.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8783004/Group.Meeting.Report.2.4.docx)
-[Iteration 2 Progress report.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8783005/Iteration.2.Progress.report.docx)
+[Iteration 2 Progress report.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8783005/Iteration.2.Progress.report.docx).
 
 ##Iteration 3
 [Order Form.pdf](https://github.com/brenda-byten/ITPM5-Assigment/files/8783622/Order.Form.pdf)
@@ -24,7 +24,7 @@ Bay Safe Plants LTD Napier NZ
 [Group Meeting Report 3.3.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8794944/Group.Meeting.Report.3.3.docx)
 [Group Meeting Report 3.4.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8794945/Group.Meeting.Report.3.4.docx)
 [Group Meeting Report 3.5.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8794946/Group.Meeting.Report.3.5.docx)
-[Iteration 3 Progress Report.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8794947/Iteration.3.Progress.Report.docx)
+[Iteration 3 Progress Report.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8794947/Iteration.3.Progress.Report.docx).
 
 ##Iteration 4
 
