@@ -51,5 +51,6 @@ Bay Safe Plants LTD Napier NZ
 
 [Iteration 3 Progress Report.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8794947/Iteration.3.Progress.Report.docx).
 
-### Iteration 4
+### Gnatt Chart
 
+[Agile Gantt chart (1).xlsx](https://github.com/brenda-byten/ITPM5-Assigment/files/8801771/Agile.Gantt.chart.1.xlsx)
