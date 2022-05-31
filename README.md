@@ -68,3 +68,8 @@ Bay Safe Plants LTD Napier NZ
 ### Wix website created for a side project
 
 https://brenda1anstisjuryx.wixsite.com/my-site-1
+
+### Final Report
+
+[Project Final Handover Report.docx](https://github.com/brenda-byten/Greg-Brenda-2022/files/8801973/Project.Final.Handover.Report.docx)
+
