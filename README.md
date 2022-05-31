@@ -52,6 +52,8 @@ Bay Safe Plants LTD Napier NZ
 
 [Iteration 3 Progress Report.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8794947/Iteration.3.Progress.Report.docx).
 
+[User Acceptance Tests.xlsx](https://github.com/brenda-byten/Greg-Brenda-2022/files/8801972/User.Acceptance.Tests.xlsx)
+
 ### Gnatt Chart
 
 [Agile Gantt chart (1).xlsx](https://github.com/brenda-byten/ITPM5-Assigment/files/8801771/Agile.Gantt.chart.1.xlsx)
@@ -65,7 +67,7 @@ Bay Safe Plants LTD Napier NZ
 [Group Meeting Report 4.3.docx](https://github.com/brenda-byten/Greg-Brenda-2022/files/8801814/Group.Meeting.Report.4.3.docx)
 
 
-### Wix website[User Acceptance Tests.xlsx](https://github.com/brenda-byten/Greg-Brenda-2022/files/8801972/User.Acceptance.Tests.xlsx)
+### Wix website
  created for a side project
 
 https://brenda1anstisjuryx.wixsite.com/my-site-1
