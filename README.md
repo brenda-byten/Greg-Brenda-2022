@@ -35,7 +35,6 @@ Bay Safe Plants LTD Napier NZ
 
 ### Iteration 3
 
-[Order Form.pdf](https://github.com/brenda-byten/ITPM5-Assigment/files/8783622/Order.Form.pdf)
 
 [User Acceptance Tests (Bay Safe Plants LTD).xlsx](https://github.com/brenda-byten/ITPM5-Assigment/files/8783674/User.Acceptance.Tests.Bay.Safe.Plants.LTD.xlsx)
 
