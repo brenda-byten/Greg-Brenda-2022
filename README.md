@@ -33,6 +33,8 @@ Bay Safe Plants LTD Napier NZ
 
 [Iteration 2 Progress report.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8783005/Iteration.2.Progress.report.docx).
 
+[Resource Requirements list.docx](https://github.com/brenda-byten/Greg-Brenda-2022/files/8801939/Resource.Requirements.list.docx)
+
 ### Iteration 3
 
 
