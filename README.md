@@ -2,10 +2,6 @@
 Bay Safe Plants LTD Napier NZ
 ## Iterations
 
-[Greg and brenda present plant nursery project meeting minutes.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8782990/Greg.and.brenda.present.plant.nursery.project.meeting.minutes.docx)
-
-[Group Meeting Report Greg and brenda plant.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8782991/Group.Meeting.Report.Greg.and.brenda.plant.docx)
-
 ### Persona Files
 
 [PERSONA TEMPLATE (Brenda).docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8782992/PERSONA.TEMPLATE.Brenda.docx)
@@ -13,6 +9,13 @@ Bay Safe Plants LTD Napier NZ
 [PERSONA TEMPLATE (Brit).docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8782993/PERSONA.TEMPLATE.Brit.docx)
 
 [PERSONA TEMPLATE (Greg).docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8782994/PERSONA.TEMPLATE.Greg.docx)
+
+### Iteration 1
+
+[Greg and brenda present plant nursery project meeting minutes.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8782990/Greg.and.brenda.present.plant.nursery.project.meeting.minutes.docx)
+
+[Group Meeting Report Greg and brenda plant.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8782991/Group.Meeting.Report.Greg.and.brenda.plant.docx)
+
 
 [Stakeholder register sample.docx](https://github.com/brenda-byten/ITPM5-Assigment/files/8782995/Stakeholder.register.sample.docx)
 
